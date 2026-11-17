@@ -1,0 +1,6 @@
+# Cópias de segurança e credenciais nunca entram no repositório
+*.dump
+*.backup
+*.sql.gz
+.env
+.env.*
